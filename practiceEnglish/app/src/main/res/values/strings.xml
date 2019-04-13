@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice English</string>
+    <string name="btn_search">Search</string>
+    <string name="btn_add">Add Item</string>
+    <string name="btn_remove">Remove Item</string>
+    <string name="btn_update">Modify Item</string>
+</resources>
