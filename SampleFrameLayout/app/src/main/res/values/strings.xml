@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleFrameLayout</string>
+    <string name="btnName">이미지 바꾸기</string>
+</resources>

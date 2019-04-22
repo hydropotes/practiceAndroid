@@ -43,6 +43,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="8dp"
             android:layout_marginEnd="32dp"
+            android:textSize="14sp"
             android:text="@string/btn_search"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/inputSearch"
@@ -82,6 +83,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:width="120dp"
+            android:textSize="14sp"
             android:text="@string/btn_add" />
 
         <!-- Update -->
@@ -90,6 +92,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:width="120dp"
+            android:textSize="14sp"
             android:text="@string/btn_update"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
@@ -101,6 +104,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:width="120dp"
+            android:textSize="14sp"
             android:text="@string/btn_remove"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toStartOf="@+id/btnAdd"

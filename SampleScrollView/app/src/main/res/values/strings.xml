@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleScrollView</string>
+    <string name="btn_name">이미지 바꾸어 보여주기</string>
+</resources>
