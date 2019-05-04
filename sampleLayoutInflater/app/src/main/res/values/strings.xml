@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sampleLayoutInflater</string>
+    <string name="btn_name">추가하기</string>
+    <string name="txt_name">버튼을 눌러 부분 화면을 추가하세요</string>
+    <string name="sub_name">부분 화면 1</string>
+    <string name="checkbox_name">동의합니다</string>
+</resources>
