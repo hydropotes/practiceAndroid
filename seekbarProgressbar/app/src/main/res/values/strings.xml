@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">seekbarProgressbar</string>
+    <string name="value_name">0</string>
 </resources>
